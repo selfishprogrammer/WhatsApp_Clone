@@ -1,0 +1,6 @@
+#card:hover {
+    background-color: lightgrey;
+    width: "100%";
+    display: "flex";
+    text-decoration: black;
+}
