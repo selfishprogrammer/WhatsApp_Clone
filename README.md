@@ -1,4 +1,4 @@
-# WhatsApp Clone In React js And Fire Base
+# WhatsApp Clone In React js And Firebase
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
